@@ -1,3 +1,0 @@
-kustomize:
-  images:
-  - teknikhub/gitlab:25-03-22
