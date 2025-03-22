@@ -1,0 +1,3 @@
+kustomize:
+  images:
+  - teknikhub/gitlab:v1.3
