@@ -1,3 +1,3 @@
 kustomize:
   images:
-  - teknikhub/gitlab:18396ffc
+  - teknikhub/gitlab:25-03-22
