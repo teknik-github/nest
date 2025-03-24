@@ -1,3 +1,3 @@
 kustomize:
   images:
-  - teknikhub/gitlab:25-03-24_03-46-37
+  - teknikhub/gitlab:25-03-24_04-05-11
